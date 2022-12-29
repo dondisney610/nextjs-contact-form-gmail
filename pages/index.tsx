@@ -26,7 +26,7 @@ export default function Home() {
       },
       body: JSON.stringify(data),
     }).then((res) => {
-      if (res.status === 200) console.log("送信成功");
+      if (res.status === 200) console.log("送信に成功しました。");
     });
   };
   return (
