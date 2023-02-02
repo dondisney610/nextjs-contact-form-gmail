@@ -1,1 +1,1 @@
-# This repository is for practice of login/signup function using Next.js and Typescript.
+# This repository is for practice of mail function with gmail using Next.js and Typescript.
